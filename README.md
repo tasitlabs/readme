@@ -1,6 +1,6 @@
 # Tasit
 
-Tasit Labs makes mobile apps for Ethereum dapps.
+Tasit Labs makes mobile Ethereum dapps.
 
 Tasit Labs has two major projects that dovetail together: the Tasit SDK (for developers) and the Tasit mobile apps (for pretty much anyone who uses a smartphone).
 
@@ -18,16 +18,23 @@ The Tasit SDK is a JavaScript SDK for making mobile apps for Ethereum dapps usin
 
 [Tasit repo](https://github.com/tasitlabs/tasit)
 
-### Notes
+### Contact us
 
-We encourage contributions by the community, so please reach out!
-
-- [Telegram](https://t.me/tasitlabs)
+We love getting feedback from the community, so please feel free to reach out.
 
 - [Website](https://tasit.io/)
 
+- [Twitter](https://twitter.com/tasitlabs)
+
+- [Telegram](https://t.me/tasitlabs)
+
 - [Email](mailto:founders@tasit.io)
 
-- [GitHub project](https://github.com/orgs/tasitlabs/projects/1)
+- [Feature requests](https://tasit.canny.io/feature-requests)
+
+- [Project Kanban board](https://github.com/orgs/tasitlabs/projects/1)
+
+
+### Notes
 
 The code for our [website](https://tasit.io) is on [GitLab](https://gitlab.com/tasit) and it's private, at least for now. The codebases for the Tasit SDK and the Tasit mobile apps are public and live here on GitHub.
