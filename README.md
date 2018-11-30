@@ -4,7 +4,7 @@ Tasit Labs makes mobile Ethereum dapps.
 
 Tasit Labs has two major projects that dovetail together: the Tasit SDK (for developers) and the Tasit mobile apps (for pretty much anyone who uses a smartphone).
 
-The Tasit SDK is a JavaScript SDK for making mobile apps for Ethereum dapps using React Native, and Tasit is a suite of mobile apps for mainstream users that lets them use popular dapps.
+The Tasit SDK is a JavaScript SDK for making mobile Ethereum dapps using React Native, and Tasit is a suite of mobile apps for mainstream users that lets them use popular dapps.
 
 **Tasit SDK**
 
