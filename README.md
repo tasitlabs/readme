@@ -1,6 +1,6 @@
 # Tasit
 
-Mobile Ethereum dapps
+**Mobile Ethereum dapps**
 
 <div align="left">
   <img src="/images/TasitLogoGrayscale.png" width="200" />
