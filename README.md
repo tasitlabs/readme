@@ -17,15 +17,14 @@ The Tasit SDK is a JavaScript SDK for making mobile Ethereum dapps using React N
 **Tasit**
 
 [Tasit GitHub](https://github.com/tasitlabs/tasit)
-)
 
 ### Contact us
 
 We love getting feedback, so please feel free to reach out.
 
-- [Website](https://tasit.io/)
+- [tasit.io](https://tasit.io/)
 
-- [Twitter](https://twitter.com/tasitlabs)
+- [@TasitLabs](https://twitter.com/tasitlabs) on Twitter
 
 - [Medium](https://medium.com/tasit)
 
@@ -35,7 +34,7 @@ We love getting feedback, so please feel free to reach out.
 
 - [Feature requests](https://tasit.canny.io/feature-requests)
 
-- [Project Kanban board](https://github.com/orgs/tasitlabs/projects/1)
+- [Kanban board](https://github.com/orgs/tasitlabs/projects/1)
 
 ### Notes
 
