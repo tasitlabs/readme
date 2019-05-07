@@ -3,7 +3,7 @@
 **Mobile Ethereum dapps**
 
 <div align="left">
-  <img src="/images/TasitLogoGrayscale.png" width="200" />
+  <img src="/images/TasitLogoFromSvgTransparentAndOpaqueColor1024x1024.png" width="200" />
 </div>
 
 Tasit is a project with two major initiatives that dovetail together: the [Tasit SDK](https://github.com/tasitlabs/tasitsdk) (for developers) and the [Tasit mobile apps](https://github.com/tasitlabs/tasit) (for pretty much anyone who uses a smartphone).
