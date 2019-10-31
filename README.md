@@ -32,7 +32,7 @@ We love getting feedback, so please feel free to reach out.
 
 - [Email](mailto:founders@tasit.io)
 
-- [Feature requests](https://tasit.canny.io/feature-requests)
+- [Feature requests](http://feedback.tasit.io/feature-requests)
 
 - [Kanban board](https://github.com/orgs/tasitlabs/projects/1)
 
