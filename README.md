@@ -8,7 +8,7 @@
 
 Tasit is a project with two major initiatives that dovetail together: the [Tasit SDK](https://github.com/tasitlabs/tasitsdk) (for developers) and the [Tasit mobile apps](https://github.com/tasitlabs/tasit) (for pretty much anyone who uses a smartphone).
 
-The Tasit SDK is a JavaScript SDK for making mobile Ethereum dapps using React Native, and Tasit is a suite of mobile apps for mainstream users that lets them use popular dapps.
+The Tasit SDK is a JavaScript SDK for making mobile Ethereum dapps using React Native, and Tasit is a suite of mobile apps for mainstream users.
 
 **Tasit SDK**
 
