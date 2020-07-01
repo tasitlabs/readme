@@ -6,7 +6,7 @@
   <img src="/images/TasitLogoFromSvgTransparentAndOpaqueColor1024x1024.png" width="200" />
 </div>
 
-Tasit is a project with two major initiatives that dovetail together: [Tasit](https://github.com/tasitlabs/tasit-sdk) (for developers) and the [Tasit mobile apps](https://github.com/tasitlabs/tasit) (for pretty much anyone who uses a smartphone).
+Tasit is a project with two major initiatives that dovetail together: [Tasit](https://github.com/tasitlabs/tasit-sdk) (for developers) and the [Tasit mobile apps](https://github.com/tasitlabs/tasit-apps) (for pretty much anyone who uses a smartphone).
 
 Tasit is a JavaScript SDK for making mobile Ethereum dapps using React Native, and the Tasit apps are a suite of mobile apps for mainstream users.
 
